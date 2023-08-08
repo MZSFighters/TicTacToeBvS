@@ -49,7 +49,9 @@ Project is: _complete_.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Please feel free to contact me if you wish to get more information of the app and play the game.
+
+Email: mzaidmns@gmail.com
 
 
 <!-- Optional -->
