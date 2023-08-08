@@ -32,7 +32,7 @@ List the ready features here:
 
 
 ## Screenshots
-I have not uploaded any screenshots of this app due to copyright issues. At that time, I used some images of Batman and Superman from google to create this game. Hence, I have not uploaded any images regarding this application.
+I have not uploaded any screenshots of this app due to copyright issues. At that time, I used some images of Batman and Superman from google to create this game. Hence, I have not uploaded any images with regards to this application.
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
